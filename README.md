@@ -10,3 +10,5 @@
 ### After training and evaluating all three models, I analyzed their performance in terms of training loss and test accuracy. I found that LoRA provided a more memory-efficient training process, while the distilled models (Odd/Even) showed competitive results depending on the layer selection.
 
 ### This project provided hands-on experience with knowledge distillation, parameter-efficient tuning, and deploying NLP models — all essential techniques for modern-day NLP applications.
+
+### that what from my understanding hopfully is up to your standard 
